@@ -1,5 +1,5 @@
 Les informations de connexion à la BDD sont a modifier dans config.php à la racine du dossier
-
+Le script d'installation de la BDD est à la racine du dossier : le_vest_hier.sql
 Pour acceder à la partie administration rajouter /administration_vesthier à l'url 
 
 Pour la connexion : user: admin mdp: admin
